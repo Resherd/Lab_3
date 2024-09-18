@@ -1,0 +1,6 @@
+C:/Users/bogda/PycharmProjects/Py/Lab_3/text_fr.txt
+en
+file
+1000
+200
+10
